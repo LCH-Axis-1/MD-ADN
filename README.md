@@ -5,12 +5,14 @@ Dans la méthode utilisée, les atomes sont des boules reliées par des ressorts
 Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation appelé VMD. Les molécules d’eau ont été retirées pour faciliter la visualisation.
 
 1.	Ouvrir VMD
+
 2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`
+
 3.	Charger la trajectoire : File --> new molecule
 
 <img width="507" height="212" alt="image" src="https://github.com/user-attachments/assets/99f95b46-5543-4c18-9a60-3d5844e5bb5b" />
 
-3.	Seules les liaisons des atomes apparaissent.
+4.	Seules les liaisons des atomes apparaissent.
 
 <img width="357" height="298" alt="Picture 1" src="https://github.com/user-attachments/assets/7750669b-ab52-4c7d-ba18-cb2d4ad4687e" />
 
@@ -32,7 +34,7 @@ Sélectionner « resname HTX » ; Drawing method « CPK » : chaque atome est re
 
 Pour faciliter les observations, on peut faire les modifications suivantes dans Display : choisir Orthographic, enlever le depth Cueing.
 
-4.	Observer la trajectoire et regarder ce qui se passe.
+5.	Observer la trajectoire et regarder ce qui se passe.
 
 <img width="555" height="219" alt="image" src="https://github.com/user-attachments/assets/0f275180-ab5c-4e9a-b190-ccf7b820a2d1" />
 
