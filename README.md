@@ -32,7 +32,7 @@ Sélectionner « resname HTX » ; Drawing method « CPK » : chaque atome est re
 Pour faciliter les observations, on peut faire les modifications suivantes dans Display : choisir Orthographic, enlever le depth Cueing.
 
 4.	Observer la trajectoire et regarder ce qui se passe.
-5.	
+
 <img width="370" height="146" alt="image" src="https://github.com/user-attachments/assets/0f275180-ab5c-4e9a-b190-ccf7b820a2d1" />
 
 -	D’où partent les molécules ? 
