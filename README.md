@@ -33,7 +33,7 @@ Adenine : rose  Thymine : blanc<br>
 Guanine : vert  Cytosine : vert clair<br>
 Autres couleurs : bases nucléiques aux extrémités.
 
-<img width="501" height="390" alt="image" src="https://github.com/user-attachments/assets/1a961114-3708-48d5-8d79-1b43b16c32c3" />
+<img width="1316" height="1022" alt="Screenshot 2026-06-11 at 15 28 54" src="https://github.com/user-attachments/assets/0db6ee45-c55c-461b-a179-e39a56483f51" />
 
 Créer une nouvelle représentation
 Sélectionner « resname HTX » ; Drawing method « CPK » : chaque atome est représenté par une boule (cyan = carbone, bleu = azote, rouge = oxygène, blanc=hydrogène).
