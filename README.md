@@ -18,7 +18,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 3.	Charger la trajectoire : File --> new molecule
 
-<img width="507" height="212" alt="image" src="https://github.com/user-attachments/assets/99f95b46-5543-4c18-9a60-3d5844e5bb5b" />
+<img width="1199" height="605" alt="Screenshot 2026-06-11 at 15 14 36" src="https://github.com/user-attachments/assets/f49c5dac-8b53-4b7c-9344-b285b13aef92" />
 
 4.	Seules les liaisons des atomes apparaissent.
 
