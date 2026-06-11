@@ -18,6 +18,8 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 3.	Charger la trajectoire : `File` --> `New Molecule`
 
+La fenêtre suivante s'ouvre. Sélectionner le fichier de trajectoire et le charger.
+
 <img width="1199" height="605" alt="Screenshot 2026-06-11 at 15 14 36" src="https://github.com/user-attachments/assets/f49c5dac-8b53-4b7c-9344-b285b13aef92" />
 
 4.	Seules les liaisons des atomes apparaissent.
