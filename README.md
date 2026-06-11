@@ -38,6 +38,8 @@ Pour faciliter les observations, on peut faire les modifications suivantes dans 
 
 <img width="555" height="219" alt="image" src="https://github.com/user-attachments/assets/0f275180-ab5c-4e9a-b190-ccf7b820a2d1" />
 
+## Questions
+
 -	D’où partent les molécules ? 
 -	Vont-elles interagir avec l’ADN ? Si oui, où ? Au bout de combien de temps de simulation ? Les interactions durent elles « longtemps » ?
 -	Les interactions ont-elles un impact sur la structure de l’ADN ?
