@@ -38,7 +38,7 @@ Autres couleurs : bases nucléiques aux extrémités.
 Créer une nouvelle représentation :<br>
 Sélectionner « resname HTX » ; Drawing method « CPK » : chaque atome est représenté par une boule (cyan = carbone, bleu = azote, rouge = oxygène, blanc=hydrogène).
 
-<img width="681" height="480" alt="image" src="https://github.com/user-attachments/assets/2175d852-806f-4fa6-b09b-6ffb72e8221a" />
+<img width="1108" height="873" alt="Screenshot 2026-06-11 at 15 33 23" src="https://github.com/user-attachments/assets/d9cd15ca-fdc8-4375-9de8-231e55d9a4a3" />
 
 Pour faciliter les observations, on peut faire les modifications suivantes dans Display : choisir Orthographic, enlever le depth Cueing.
 
