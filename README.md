@@ -22,7 +22,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 4.	Seules les liaisons des atomes apparaissent.
 
-<img width="357" height="298" alt="Picture 1" src="https://github.com/user-attachments/assets/7750669b-ab52-4c7d-ba18-cb2d4ad4687e" />
+<img width="995" height="997" alt="Screenshot 2026-06-11 at 15 16 58" src="https://github.com/user-attachments/assets/52c69a46-5d47-49c5-a46d-3815cb4b2d8b" />
 
 On peut modifier la représentation : Graphics --> representation
 
