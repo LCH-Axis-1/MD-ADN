@@ -10,6 +10,8 @@ Dans la méthode utilisée, les atomes sont des boules reliées par des ressorts
 Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation appelé VMD. Les molécules d’eau ont été retirées pour faciliter la visualisation.
 </p>
 
+Nota Bene : Pour une meilleure lisibilité, les images de ce tutoriel peuvent être agrandies en cliquant dessus.
+
 ## Tutoriel
 
 1.	Ouvrir VMD
