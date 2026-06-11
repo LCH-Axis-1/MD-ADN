@@ -12,7 +12,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 1.	Ouvrir VMD
 
-2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`
+2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`.
 
 3.	Charger la trajectoire : File --> new molecule
 
