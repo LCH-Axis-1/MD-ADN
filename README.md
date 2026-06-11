@@ -24,8 +24,6 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 <img width="995" height="997" alt="Screenshot 2026-06-11 at 15 16 58" src="https://github.com/user-attachments/assets/52c69a46-5d47-49c5-a46d-3815cb4b2d8b" />
 
-
-
 On peut modifier la représentation : Graphics --> representation
 
 <img width="354" height="178.5" alt="Picture 2" src="https://github.com/user-attachments/assets/3fe4a177-3a7e-4678-b637-26bb1c809964" />
