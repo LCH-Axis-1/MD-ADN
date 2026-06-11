@@ -7,7 +7,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 1.	Ouvrir VMD
 2.	Charger la trajectoire : File --> new molecule
 
-<img width="380" height="159" alt="image" src="https://github.com/user-attachments/assets/99f95b46-5543-4c18-9a60-3d5844e5bb5b" />
+<img width="760" height="318" alt="image" src="https://github.com/user-attachments/assets/99f95b46-5543-4c18-9a60-3d5844e5bb5b" />
 
 3.	Seules les liaisons des atomes apparaissent.
 4.	
