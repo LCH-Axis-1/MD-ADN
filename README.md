@@ -28,7 +28,7 @@ On peut modifier la représentation : Graphics --> representation
 
 <img width="559" height="309" alt="Screenshot 2026-06-11 at 15 18 55" src="https://github.com/user-attachments/assets/803b3e92-502c-41eb-9fad-46e23fddf841" />
 
-Sélectionner « nucleic » ; Drawing method  « new ribbon » ; coloring methods « Resname », qui permet de colorer en fonction des bases nucléiques :<br> <br>
+Sélectionner « nucleic » ; Drawing method  « new ribbon » ; coloring methods « Resname », qui permet de colorer en fonction des bases nucléiques :<br>
 Adenine : rose  Thymine : blanc<br>
 Guanine : vert  Cytosine : vert clair<br>
 Autres couleurs : bases nucléiques aux extrémités.
