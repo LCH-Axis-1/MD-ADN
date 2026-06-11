@@ -18,6 +18,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 <img width="507" height="212" alt="image" src="https://github.com/user-attachments/assets/99f95b46-5543-4c18-9a60-3d5844e5bb5b" />
 
+
 4.	Seules les liaisons des atomes apparaissent.
 
 <img width="357" height="298" alt="Picture 1" src="https://github.com/user-attachments/assets/7750669b-ab52-4c7d-ba18-cb2d4ad4687e" />
