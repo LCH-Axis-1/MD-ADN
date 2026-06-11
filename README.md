@@ -8,6 +8,8 @@ Dans la méthode utilisée, les atomes sont des boules reliées par des ressorts
 Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation appelé VMD. Les molécules d’eau ont été retirées pour faciliter la visualisation.
 </p>
 
+## Tutoriel
+
 1.	Ouvrir VMD
 
 2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`
