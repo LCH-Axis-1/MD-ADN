@@ -44,7 +44,7 @@ Pour faciliter les observations, on peut faire les modifications suivantes dans 
 
 5.	Observer la trajectoire et regarder ce qui se passe.
 
-<img width="555" height="219" alt="image" src="https://github.com/user-attachments/assets/0f275180-ab5c-4e9a-b190-ccf7b820a2d1" />
+<img width="1022" height="603" alt="Screenshot 2026-06-11 at 15 38 06" src="https://github.com/user-attachments/assets/4ee406ca-fe53-48aa-bff8-42939c64b8c6" />
 
 ## Questions
 
