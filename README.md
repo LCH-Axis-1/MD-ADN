@@ -11,7 +11,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 3.	Seules les liaisons des atomes apparaissent.
 
-<img width="307" height="298" alt="image" src="https://github.com/user-attachments/assets/cd69b02a-79ac-40f3-bb59-3d489b44432a" />
+<img width="307" height="298" alt="image" src="https://github.com/user-attachments/assets/cb5f508a-494f-4743-9fd1-ea9f41934373" />
 
 On peut modifier la représentation : Graphics --> representation
 
