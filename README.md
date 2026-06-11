@@ -15,7 +15,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 On peut modifier la représentation : Graphics --> representation
 
-<img width="354" height="178.5" alt="image" src="https://github.com/user-attachments/assets/67961147-4474-4aa4-92d0-66b4050d0dbc" />
+<img width="236" height="119" alt="Picture 2" src="https://github.com/user-attachments/assets/3fe4a177-3a7e-4678-b637-26bb1c809964" />
 
 Sélectionner « nucleic » ; Drawing method  « new ribbon » ; coloring methods « Resname », qui permet de colorer en fonction des bases nucléiques :
 Adenine : rose		Thymine : blanc
