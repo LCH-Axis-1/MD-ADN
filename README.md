@@ -35,7 +35,7 @@ Autres couleurs : bases nucléiques aux extrémités.
 
 <img width="1316" height="1022" alt="Screenshot 2026-06-11 at 15 28 54" src="https://github.com/user-attachments/assets/0db6ee45-c55c-461b-a179-e39a56483f51" />
 
-Créer une nouvelle représentation
+Créer une nouvelle représentation :<br>
 Sélectionner « resname HTX » ; Drawing method « CPK » : chaque atome est représenté par une boule (cyan = carbone, bleu = azote, rouge = oxygène, blanc=hydrogène).
 
 <img width="681" height="480" alt="image" src="https://github.com/user-attachments/assets/2175d852-806f-4fa6-b09b-6ffb72e8221a" />
