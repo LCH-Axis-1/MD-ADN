@@ -16,7 +16,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`.
 
-3.	Charger la trajectoire : File --> new molecule
+3.	Charger la trajectoire : File --> New Molecule
 
 <img width="1199" height="605" alt="Screenshot 2026-06-11 at 15 14 36" src="https://github.com/user-attachments/assets/f49c5dac-8b53-4b7c-9344-b285b13aef92" />
 
