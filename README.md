@@ -30,7 +30,7 @@ Avogadro est un outil très intéressant pour visualiser la structure des moléc
 
 <img width="714" height="326" alt="Screenshot 2026-06-17 at 13 58 51" src="https://github.com/user-attachments/assets/e4fc071a-5327-4844-8a03-b23378c813a5" />
 
-7. Avogadro possède aussi un outil très utile pour « optimiser » les molécules. Cela signifie qu’il corrige automatiquement la structure (distances, angles) pour obtenir une forme plus stable, comme dans la réalité. Pour commencer on va changer la méthode d’optimisation. Cliquer sur « Extensions », puis « Calculate » et « Configure ». Choisir GAFF comme Force Field. Puis « OK ».
+7. Avogadro possède aussi un outil très utile pour « optimiser » les molécules. Cela signifie qu’il corrige automatiquement la structure (distances, angles) pour obtenir une forme plus stable, comme dans la réalité. Pour commencer, nous allons changer la méthode d’optimisation. Cliquer sur « Extensions », puis « Calculate » et « Configure ». Choisir GAFF comme Force Field. Puis « OK ».
 
 <img width="995" height="626" alt="Screenshot 2026-06-17 at 14 00 05" src="https://github.com/user-attachments/assets/ff1e1124-ae1f-420e-a020-9f40a408ec64" />
 
