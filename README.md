@@ -50,6 +50,8 @@ Maintenant que nous savons comment créer une molécule, nous allons ouvrir un f
 
 <img width="1252" height="654" alt="Screenshot 2026-06-17 at 14 03 47" src="https://github.com/user-attachments/assets/6ed3e226-7ce4-4a9d-b36a-c113d3d76b61" />
 
+Nous venons de travailler sur des molécules séparées, mais il est aussi possible de réaliser des simualtions impliquant plusieurs molécules pour voir comment elles intéragissent entre elles. Dans la suite, nous allons étudier l'interaction de la molécule HTX avec un fragment d'ADN.
+
 ## Visualisation d'une simulation avec VMD
 
 <p align="justify">
