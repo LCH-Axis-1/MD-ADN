@@ -10,7 +10,7 @@ Avogadro est un outil très intéressant pour visualiser la structure des moléc
 
 <img width="731" height="752" alt="Screenshot 2026-06-17 at 13 52 28" src="https://github.com/user-attachments/assets/ab226e99-140d-4e66-9572-954f1e40be68" />
 
-2. Sélectionner l'outil de dessin, et le type d'élément (par exemple le carbone).
+2. Sélectionner l'outil de dessin et le type d'élément (par exemple le carbone).
 
 <img width="961" height="669" alt="Screenshot 2026-06-17 at 13 53 15" src="https://github.com/user-attachments/assets/0427d34a-8fa7-4b30-a4fd-f1965d7a0abf" />
 
