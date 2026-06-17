@@ -2,7 +2,7 @@
 
 <em>Nota Bene : pour une meilleure lisibilité, les images de ce tutoriel peuvent être agrandies en cliquant dessus.</em>
 
-## Construction de molécules et analyses de résultats avec Avogadro
+## Construction de molécules avec Avogadro
 
 
 ## Visualisation d'une simulation avec VMD
