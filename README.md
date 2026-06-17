@@ -2,8 +2,53 @@
 
 <em>Nota Bene : pour une meilleure lisibilité, les images de ce tutoriel peuvent être agrandies en cliquant dessus.</em>
 
-## Construction de molécules avec Avogadro
+## Étude de structures moléculaires avec Avogadro
 
+Avogadro est un outil très intéressant pour visualiser la structure des molécules. Pour commencer, nous allons dessiner une molécule.
+
+1. Cliquer sur « Search » et taper Avogadro.
+
+<img width="731" height="752" alt="Screenshot 2026-06-17 at 13 52 28" src="https://github.com/user-attachments/assets/ab226e99-140d-4e66-9572-954f1e40be68" />
+
+2. Sélectionner l'outil de dessin, et le type d'élément (par exemple le carbone).
+
+<img width="961" height="669" alt="Screenshot 2026-06-17 at 13 53 15" src="https://github.com/user-attachments/assets/0427d34a-8fa7-4b30-a4fd-f1965d7a0abf" />
+
+3. Appuyer sur l’écran pour créer un atome.
+
+<img width="860" height="671" alt="Screenshot 2026-06-17 at 13 54 44" src="https://github.com/user-attachments/assets/611ddb88-a3f4-48c9-81fe-919c4abe77ed" />
+
+4. Pour ajouter un autre atome, cliquer sur un atome existant puis faire glisser la souris.
+
+<img width="958" height="713" alt="Screenshot 2026-06-17 at 13 55 35" src="https://github.com/user-attachments/assets/e9fe3a9c-2be5-4a78-8584-876dacdc6490" />
+
+5. Il est possible d'utiliser des liaisons doubles ou triples en changeant l’ordre de liaison. Attention, si la case “Adjust Hydrogens” est cochée, l'atome créé sera lié automatiquement à des hydrogènes.
+
+<img width="1052" height="777" alt="Screenshot 2026-06-17 at 13 57 52" src="https://github.com/user-attachments/assets/3729b6d8-5a94-4b13-a7e0-e00a3a6d7585" />
+
+6. Il existe plusieurs outils qui puevent aider à mieux visualiser la molécule.
+
+<img width="714" height="326" alt="Screenshot 2026-06-17 at 13 58 51" src="https://github.com/user-attachments/assets/e4fc071a-5327-4844-8a03-b23378c813a5" />
+
+7. Avogadro possède aussi un outil très utile pour “optimiser” les molécules. Cela signifie qu’il corrige automatiquement la structure (distances, angles) pour obtenir une forme plus stable, comme dans la réalité. Pour commencer on va changer la méthode d’optimisation. Cliquer sur « Extensions », puis « Calculate » et « Configure ». Choisir GAFF comme Force Field. Puis « OK ».
+
+<img width="995" height="626" alt="Screenshot 2026-06-17 at 14 00 05" src="https://github.com/user-attachments/assets/ff1e1124-ae1f-420e-a020-9f40a408ec64" />
+
+8. Cliquer sur « Extensions » puis « Optimize Geometry ». Observer comment la molécule se réorganise toute seule pour retrouver sa forme la plus stable.
+
+Maintenant que nous savons utiliser les outils de base d’Avogadro, nous allons dessiner quelques molécules, par exemple les structures suivantes :
+
+<img width="1130" height="335" alt="Screenshot 2026-06-17 at 14 01 35" src="https://github.com/user-attachments/assets/a57b4c6c-9718-4148-a193-96d94a7d1f92" />
+
+Maintenant que nous savons comment créer une molécule, nous allons ouvrir un fichier provenant d’un calcul déjà effectué.  Cela nous permettra d’observer la structure la plus stable de la molécule ainsi que ses orbitales, qui sont comme des “nuages” autour des atomes où se trouvent les électrons. Elles nous montrent où les électrons ont le plus de chances d’être.
+
+9. Télécharger les fichiers `dp1953a.fchk` et `htx.fchk`, disponibles sur cette page GitHub.
+
+10. Ouvrir un fichier `.fchk` en cliquant sur « File » puis « Open ».
+
+11. Sélectionner une orbitale pour la visualiser.
+
+<img width="1252" height="654" alt="Screenshot 2026-06-17 at 14 03 47" src="https://github.com/user-attachments/assets/6ed3e226-7ce4-4a9d-b36a-c113d3d76b61" />
 
 ## Visualisation d'une simulation avec VMD
 
