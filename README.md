@@ -18,7 +18,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 <img width="2022" height="1096" alt="Terminal1" src="https://github.com/user-attachments/assets/e49c6adc-a3c3-432f-91b2-f2051493e4ce" />
 
-<img width="1920" height="1080" alt="Terminal2" src="https://github.com/user-attachments/assets/a9f3ade4-a83f-4351-a734-13d82fd0d21c" />
+<img width="1913" height="1049" alt="Terminal2" src="https://github.com/user-attachments/assets/39bb7a5b-d90e-4ad2-baec-a1f0d56dab1a" />
 
 2.	Télécharger le dossier `center_dsDNA_4htx.zip` disponible sur cette page GitHub. Le décompresser pour obtenir le fichier contenant la trajectoire : `center_dsDNA_4htx.pdb`.
 
