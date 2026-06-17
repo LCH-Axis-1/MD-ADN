@@ -23,7 +23,7 @@ Avogadro est un outil très intéressant pour visualiser la structure des moléc
 <img width="958" height="713" alt="Screenshot 2026-06-17 at 13 55 35" src="https://github.com/user-attachments/assets/e9fe3a9c-2be5-4a78-8584-876dacdc6490" />
 
 <p align="justify">
-5. Il est possible d'utiliser des liaisons doubles ou triples en changeant l’ordre de liaison. Attention, si la case « Adjust Hydrogens » est cochée, l'atome créé sera lié automatiquement à des hydrogènes.</p>
+5. Il est possible d'utiliser des liaisons doubles ou triples en changeant l’ordre de liaison. Attention, si la case «Adjust Hydrogens» est cochée, l'atome créé sera lié automatiquement à des hydrogènes.</p>
 
 <img width="1052" height="777" alt="Screenshot 2026-06-17 at 13 57 52" src="https://github.com/user-attachments/assets/3729b6d8-5a94-4b13-a7e0-e00a3a6d7585" />
 
