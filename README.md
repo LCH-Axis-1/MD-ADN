@@ -30,7 +30,9 @@ Avogadro est un outil très intéressant pour visualiser la structure des moléc
 
 <img width="714" height="326" alt="Screenshot 2026-06-17 at 13 58 51" src="https://github.com/user-attachments/assets/e4fc071a-5327-4844-8a03-b23378c813a5" />
 
+<p align="justify">
 7. Avogadro possède aussi un outil très utile pour « optimiser » les molécules. Cela signifie qu’il corrige automatiquement la structure (distances, angles) pour obtenir une forme plus stable, comme dans la réalité. Pour commencer, nous allons changer la méthode d’optimisation. Cliquer sur « Extensions », puis « Calculate » et « Configure ». Choisir GAFF comme Force Field. Puis « OK ».
+</p>
 
 <img width="995" height="626" alt="Screenshot 2026-06-17 at 14 00 05" src="https://github.com/user-attachments/assets/ff1e1124-ae1f-420e-a020-9f40a408ec64" />
 
@@ -40,7 +42,9 @@ Maintenant que nous savons utiliser les outils de base d’Avogadro, nous allons
 
 <img width="1130" height="335" alt="Screenshot 2026-06-17 at 14 01 35" src="https://github.com/user-attachments/assets/a57b4c6c-9718-4148-a193-96d94a7d1f92" />
 
+<p align="justify">
 Maintenant que nous savons comment créer une molécule, nous allons ouvrir un fichier provenant d’un calcul déjà effectué.  Cela nous permettra d’observer la structure la plus stable de la molécule ainsi que ses orbitales, qui sont comme des « nuages » autour des atomes où se trouvent les électrons. Elles nous montrent où les électrons ont le plus de chances d’être.
+</p>
 
 9. Télécharger les fichiers `dp1953a.fchk` et `htx.fchk`, disponibles sur cette page GitHub.
 
@@ -50,7 +54,9 @@ Maintenant que nous savons comment créer une molécule, nous allons ouvrir un f
 
 <img width="1252" height="654" alt="Screenshot 2026-06-17 at 14 03 47" src="https://github.com/user-attachments/assets/6ed3e226-7ce4-4a9d-b36a-c113d3d76b61" />
 
+<p align="justify">
 Nous venons de travailler sur des molécules séparées, mais il est aussi possible de réaliser des simualtions impliquant plusieurs molécules pour voir comment elles intéragissent entre elles. Dans la suite, nous allons étudier l'interaction de la molécule HTX avec un fragment d'ADN.
+</p>
 
 ## Visualisation d'une simulation avec VMD
 
