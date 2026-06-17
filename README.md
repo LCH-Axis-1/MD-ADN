@@ -40,13 +40,13 @@ Maintenant que nous savons utiliser les outils de base d’Avogadro, nous allons
 
 <img width="1130" height="335" alt="Screenshot 2026-06-17 at 14 01 35" src="https://github.com/user-attachments/assets/a57b4c6c-9718-4148-a193-96d94a7d1f92" />
 
-Maintenant que nous savons comment créer une molécule, nous allons ouvrir un fichier provenant d’un calcul déjà effectué.  Cela nous permettra d’observer la structure la plus stable de la molécule ainsi que ses orbitales, qui sont comme des “nuages” autour des atomes où se trouvent les électrons. Elles nous montrent où les électrons ont le plus de chances d’être.
+Maintenant que nous savons comment créer une molécule, nous allons ouvrir un fichier provenant d’un calcul déjà effectué.  Cela nous permettra d’observer la structure la plus stable de la molécule ainsi que ses orbitales, qui sont comme des « nuages » autour des atomes où se trouvent les électrons. Elles nous montrent où les électrons ont le plus de chances d’être.
 
 9. Télécharger les fichiers `dp1953a.fchk` et `htx.fchk`, disponibles sur cette page GitHub.
 
 10. Ouvrir un fichier `.fchk` en cliquant sur « File » puis « Open ».
 
-11. Sélectionner une orbitale pour la visualiser.
+11. Sélectionner une orbitale pour la visualiser. Par exemple, pour la molécule HTX :
 
 <img width="1252" height="654" alt="Screenshot 2026-06-17 at 14 03 47" src="https://github.com/user-attachments/assets/6ed3e226-7ce4-4a9d-b36a-c113d3d76b61" />
 
