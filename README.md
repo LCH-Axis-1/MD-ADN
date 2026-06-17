@@ -1,5 +1,12 @@
 # Simulation de l’interaction entre 4 molécules HTX et l’ADN
 
+<em>Nota Bene : pour une meilleure lisibilité, les images de ce tutoriel peuvent être agrandies en cliquant dessus.</em>
+
+## Construction de molécules et analyses de résultats avec Avogadro
+
+
+## Visualisation d'une simulation avec VMD
+
 <p align="justify">
 Pour comprendre comment la molécule HTX interagit avec l’ADN, il est possible de simuler un fragment de deux brins d’ADN formant une double hélice et 4 molécules dans l’eau et observer comment les molécules interagissent.
 </p>
@@ -10,9 +17,7 @@ Dans la méthode utilisée, les atomes sont des boules reliées par des ressorts
 Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation appelé VMD. Les molécules d’eau ont été retirées pour faciliter la visualisation.
 </p>
 
-<em>Nota Bene : pour une meilleure lisibilité, les images de ce tutoriel peuvent être agrandies en cliquant dessus.</em>
-
-## Tutoriel
+### Tutoriel
 
 1. Ouvrir le logiciel VMD à l'aide du terminal.
 
@@ -56,7 +61,7 @@ Pour faciliter les observations, on peut faire les modifications suivantes dans 
 
 <img width="696" height="414" alt="Screenshot 2026-06-11 at 15 40 16" src="https://github.com/user-attachments/assets/7d64bb12-cabe-4b46-91ea-f5c2f7cd87ab" />
 
-## Questions
+### Questions
 
 -	D’où partent les molécules ? 
 -	Vont-elles interagir avec l’ADN ? Si oui, où ? Au bout de combien de temps de simulation ? Les interactions durent elles « longtemps » ?
