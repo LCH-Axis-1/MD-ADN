@@ -16,7 +16,7 @@ Ici, on va regarder une trajectoire de 200 ns avec un logiciel de visualisation 
 
 1. Ouvrir le logiciel VMD à l'aide du terminal.
 
-<img width="2022" height="1096" alt="Terminal1" src="https://github.com/user-attachments/assets/e49c6adc-a3c3-432f-91b2-f2051493e4ce" />
+<img width="1913" height="1049" alt="Terminal1" src="https://github.com/user-attachments/assets/da50e704-8b1c-4d77-9a05-a86be6a5041c" />
 
 <img width="1913" height="1049" alt="Terminal2" src="https://github.com/user-attachments/assets/39bb7a5b-d90e-4ad2-baec-a1f0d56dab1a" />
 
